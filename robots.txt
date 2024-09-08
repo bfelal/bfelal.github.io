@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bfelal.github.io/Ouo/sitemap.Ouo.gz
